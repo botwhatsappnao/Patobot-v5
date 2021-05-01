@@ -1,1 +1,1 @@
-Los comandos los encuentras en el canal de Yt
+𝑨𝑯𝑹𝑬
