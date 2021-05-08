@@ -189,7 +189,8 @@ return `┏━🔥࿗ 𝑳𝒐𝒓𝒅 𝑻𝒓𝒆𝒆𝒔 𝑩𝒐𝒕 2.0 ࿗
 ❁❧ *${p}librahoje*
 ❁❧ *${p}realhoje*
 ❁❧ *${p}cvoin* ❮c1❯|❮c2❯
-❁❧ *${p}ccoin* ❮c1❯|❮c2❯|❮num❯`
+❁❧ *${p}ccoin* ❮c1❯|❮c2❯|❮num❯
+DISFRUTEN GILES `
 }
 
 exports.help = help
