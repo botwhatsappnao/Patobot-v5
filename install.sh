@@ -14,5 +14,5 @@ pkg install imagemagick -y
 npm install
 npm install pm2 -g
 
-echo "Mr-Pato: Listo mi pana todo descargado usa npm start para activar el bot :)"
+echo "Lord Trees Preparado PA NPM START PARA ACTIVAR :)"
 
